@@ -143,6 +143,5 @@ class ClassController
         // Process the response
         $response = json_decode($content, true);
         return $response;
-
     }
 }
