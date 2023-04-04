@@ -4,8 +4,9 @@ namespace Api;
 class ClassController
 {
     static $CANVAS_BASE_URL = "https://canvas.instructure.com/";
-    static $TOKEN = "5590~WQTFigoJTgyTsxxJvq3MZbFhemlTtIUnCqELPlv2XCslY9UbRi8zuJnqEkK4dL1M";
+    // static $TOKEN = "5590~WQTFigoJTgyTsxxJvq3MZbFhemlTtIUnCqELPlv2XCslY9UbRi8zuJnqEkK4dL1M";
     // static $TOKEN = "5590~HLxY0j2qwWb04TsaVcmpXDnDb7wzwDrLZVoXTUujixXYRjompNCRw7f2hSG91ZTV";
+    static $TOKEN = "5590~gJemugkvBqaJZ3CTwKOfgXBb1k3xqB10MUtzRu6s10oGcd9RWI3lnVaJlN8VRbwk";
     private $requestMethod;
     private $path;
 
