@@ -3,7 +3,7 @@ namespace Api;
 
 class SportController
 {
-    static $API_TOKEN = "864dbf6bb86c46749ef43815232803";
+    static $API_TOKEN = "ac764fc58a0b47da95c45109231104";
     static $LOCATION = "United States";
     static $BASE_URL = "http://api.weatherapi.com/v1/sports.json";
     private $requestMethod;
